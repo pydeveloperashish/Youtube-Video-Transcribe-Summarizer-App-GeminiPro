@@ -1,1 +1,1 @@
-Live Link:- https://youtube-video-transcribe-summarizer-app-geminipro.streamlit.app/
+Live Link:- https://youtube-video-transcript-summarizer-app-geminipro.streamlit.app/
